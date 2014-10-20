@@ -1,0 +1,2 @@
+pydic==1.0
+u-msgpack-python==1.6
