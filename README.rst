@@ -7,11 +7,11 @@ Python object-oriented HTTP
 .. image:: https://coveralls.io/repos/felixcarmona/pyhttp/badge.png?branch=master
     :target: https://coveralls.io/r/felixcarmona/pyhttp?branch=master
 
-.. image:: https://pypip.in/d/pyhttp/badge.png
+.. image:: https://img.shields.io/pypi/dm/pyhttp.svg
     :target: https://pypi.python.org/pypi/pyhttp/
     :alt: Downloads
 
-.. image:: https://pypip.in/v/pyhttp/badge.png
+.. image:: https://img.shields.io/pypi/v/pyhttp.svg
     :target: https://pypi.python.org/pypi/pyhttp/
     :alt: Latest Version
 
